@@ -1,3 +1,5 @@
 neko zacetno besedilo.
 dodatno besedilo.
+
 boljsa implementacija funkcije 2.
+veliko nove kode.
