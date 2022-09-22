@@ -1,3 +1,4 @@
 neko zacetno besedilo.
 dodatno besedilo.
 se nova funkcija.
+veliko nove kode.
